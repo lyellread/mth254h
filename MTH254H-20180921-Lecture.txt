@@ -8,6 +8,7 @@ Displacement: displacement from P to Q is labeled "PQ" with arrow over the lette
 Vector: Has a magnitude ("length") and a direction ("theta"). Formal definition: equivalence class of all line segments with the same length and direction
 Magnitude: Length of vec(v) is named as |vec(v)|. |vec(v)| = SQRT(v1^2 + v2^2)
 Unit Vector: A Vector with magnitude 1 (|vec(u)| = 1)
+Position Vector: Merely a vector that is made (usually) from O and a point. 
 End_Defenitions
 
 Concepts
