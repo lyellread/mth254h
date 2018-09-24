@@ -1,0 +1,32 @@
+# MTH245H - LECTURE 1 - 9/21/2018 #
+
+Chapter: 11.1
+
+Definitions
+Point: Thought of as a displacement from the origin. 
+Displacement: displacement from P to Q is labeled "PQ" with arrow over the letters from first to second.
+Vector: Has a magnitude ("length") and a direction ("theta"). Formal definition: equivalence class of all line segments with the same length and direction
+Magnitude: Length of vec(v) is named as |vec(v)|. |vec(v)| = SQRT(v1^2 + v2^2)
+Unit Vector: A Vector with magnitude 1 (|vec(u)| = 1)
+End_Defenitions
+
+Concepts
+Real Numbers & Such: "R": Real Numbers, "R^2": all real points in a plane (x,y), "R^3": (x,y,z) real numbers. Note "R" represents the 'all reals' symbol.
+Vector Notation: <v1,v2>=vec(v). This means that if the start of the representative vector were placed at the origin, the end would be at (v1,v2)
+Multiplication of Vectors: <v1,v2>=vec(v) can be modified in the following way: n*vec(c) = <n*v1,n*v2>
+Vector Addition (Graphical): vec(v) + vec(w): Start vec(v) at the origin, and place the non-arrow end of vec(w) at the arrow end of vec(v) and then the line from Origin (O) to the arrow end of vec(w) is the resultant
+Vector Subtraction: If the vector in question has a negative in front [in: vec(v)-vec(w), vec(w) is negative) then flip its direction 180 (AKA -1*vec(X)) and then perform Vector Addition (Graphical|Mathmatical).
+Vector Addition (Mathmatical): <v1,v2>=vec(v), <w1,w2>=vec(w): vec(v) + vec(w) = <v1+w1, v2+w2>
+Magnitudes and Multiplication: 
+End_Concepts
+
+Notes
+https://math.oregonstate.edu/~show/191_254H.html
+Of 4 tests (2 tests, final, quiz) top three of the four
+Homework Quizzes are on ONLY hw problems
+Link to textbook: http://khmerreadbook.weebly.com/uploads/7/9/9/0/79904058/brigg_calculus_for_sci.___engin.pdf
+End_Notes
+
+Files
+
+End_Files
