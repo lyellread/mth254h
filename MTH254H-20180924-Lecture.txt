@@ -1,0 +1,30 @@
+# MTH245H - LECTURE 2 - 9/24/2018 #
+
+Chapter: 11.2
+
+Definitions
+Vector Notation in 2D: vec(v) = <x1,x2> = x1*i + x2*j
+Vector Notation in 3D: vec(v) = <x1, x2, x3> = x1*i + x2*j + x3*k
+2D Unit Vector i: <1,0>
+2D Unit Vector j: <0,1>
+3D Unit Vector i: <1,0,0>
+3D Unit Vector j: <0,1,0>
+3D Unit Vector k: <0,0,1>
+Euclidian Coordinates: AKA Rectangular Coordinates, (x,y) is in "R"^2
+End_Defenitions
+
+Concepts
+2D Constraints: If you have the set {(x,y): x=a} then that set is the line x=a; with the set {(x,y):x=a, y=b} that is a point (a,b). With the set {(x,y):x=a or y=b}: That is two lines that intersect at (a,b)
+3D Constraints: If you have the set {(x,y,z): y=a}, then that is a plane. With two constraints (i.e. <var>=a) that is a line (the intersection of two planes) and with an 'or' it is actually two plains. With three constraints, that is a point.
+3D Vector Length: vec(p) = <p1, p2, p3> ; |vec(p)| = SQRT(p1^2 + p2^2 + p3^2)
+Circle Magic: For a circle with Radius 1 at O: [1] all points on that circle have coords (rcosTHETA,rsinTHETA) [2] the arc length from 1,0 to the point on the circle os equivalent to THETA (S=rTHETA). 
+Polar Coordinates: x=rcosTHETA, y=rsinTHETA, r=|<x,y>|, THETA=Angle to <x,y>
+End_Concepts
+
+Notes
+File attached for the convention regarding X, Y, Z axis placement when diagraming.
+End_Notes
+
+Files
+xyz_standard.jpg
+End_Files
