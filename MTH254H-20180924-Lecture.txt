@@ -11,6 +11,9 @@ Vector Notation in 3D: vec(v) = <x1, x2, x3> = x1*i + x2*j + x3*k
 3D Unit Vector j: <0,1,0>
 3D Unit Vector k: <0,0,1>
 Euclidian Coordinates: AKA Rectangular Coordinates, (x,y) is in "R"^2
+Circle Centered at (a,b): (x-a)^2 + (y-b)^2 = r^2
+Sphere Centered at (a,b,c): (x-a)^2 + (y-b)^2 + (z-c)^2 = r^2
+Ball: The set of all points on or inside a sphere. For a Ball Centered at (a,b,c): (x-a)^2 + (y-b)^2 + (z-c)^2 <= r^2 
 End_Defenitions
 
 Concepts
