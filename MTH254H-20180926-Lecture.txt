@@ -1,0 +1,20 @@
+# MTH245H - LECTURE 3 - 9/26/2018 #
+
+Chapter: 11.3
+
+Definitions
+Dot Product: the Dot Product of two vectors u and v is "u dot v" is |u||v|cosTHETA (where theta is between them). If u=<u1,u2>,v=<v1,v2> then u dot v is u1v1+u2v2 (+u3ve in "R"^3)
+
+End_Defenitions
+
+Concepts
+Dot Product of i,j: i dot j = 0. i=<1,0> j=<0,1> 1*0+0*1 = 0
+End_Concepts
+
+Notes
+
+End_Notes
+
+Files
+
+End_Files
