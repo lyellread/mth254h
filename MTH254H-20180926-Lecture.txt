@@ -12,7 +12,7 @@ Dot Product of i,j: i dot j = 0. i=<1,0> j=<0,1> 1*0+0*1 = 0
 End_Concepts
 
 Notes
-
+https://github.com/dunklastarn/OSU-MTH254H-DOCS/blob/master/vectors-11.1-11.4-summary.pdf
 End_Notes
 
 Files
