@@ -1,0 +1,24 @@
+# MTH245H - LECTURE 4 - 9/27/2018 #
+
+Chapter: 11.4
+
+Definitions
+Determinant (2X2): |matrix|. Matrix must be square to do. Nested Lists used: DET([[a1, a2],[b1,b2]]) = |[[a1, a2],[b1,b2]]| = a1b2-b1a2
+Determinant (3X3): Ex.: DET([[a1,a2,a3],[b1,b2,b3],[c1,c2,c3]]) = a1*|[[b2,b3],[c2,c3]]| -a2*|[[b1,b3],[c1,c3]]| +a3|[[b1,b2],[c1,c2]]|
+Cross Product: Cross Product of vec(u) by vec(v) (Written uXv) results in the vector with length |u||v|sinTHETA and direction is perpendicular to both vetors, and direction is determined by right hand rule (fingers from u-->v and thumb is resultant).
+Scalar Triple Product: u DOT v X w = u DOT |[[i,j,k],[v1,v2,v3],[w1,w2,w3]]| = |[[u1,u2,u3],[v1,v2,v3],[w1,w2,w3]]| = volume of the parallelopipet formed with the three vectors.
+End_Defenitions
+
+Concepts
+Cross Product Order: if aXb=c then bXa is -c
+Cross Product as a Matrix: uXv = |[[i,j,k],[u1,u2,u3],[v1,v2,v3]]|
+Parallelograms: in uXv the parallelogram formed between u and v has area = |u||v|sinTHETA
+End_Concepts
+
+Notes
+"We're done... Now all we have to do is do it." - Dr. Ralph Showalter, 9/28/2018.
+End_Notes
+
+Files
+
+End_Files
