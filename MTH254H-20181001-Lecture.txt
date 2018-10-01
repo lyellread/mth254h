@@ -1,0 +1,28 @@
+# MTH245H - LECTURE 5 - 10/01/2018 #
+
+Chapter: 11.5,11.6
+
+Definitions
+Vector Valued Functions: ex. vec(r)(t) (AKA "r bar of t") = <x(t), y(t), z(t)>
+VVF Derivatives: (1/h)*(vec(r)(t+h)-vec(r)(t)) as h --> 0 makes vec(r)'(t) = <x'(t),y'(t),z'(t)> provided the derivative is not 0.
+End_Defenitions
+
+Concepts
+Cross Product Parallelograms: For two vectors u,v u X v = |u||v| sin THETA. The parallelogram formed has area A=bh where b is |u| and h is |v|sinTHETA. Therefore |u X v| resuts in the A of the parallelogram.
+Parallelopipet: (see diagram). Calculated as u X v DOT w = |u X v| |w| cos THETA_plane to w_ = Volume of Parallelopipet.
+Displaying Derivative of vec(r)(t) at (t1). The value of vec(r)'(t1) (the vector) can be placed at the point vec(r)(t1).
+VVF with Vectors: vec(r)(t) = c + td (where c and d are vectors, and d!=0) will be a line containing the point c in the direction of d.
+Find VVF For a Line: What is the VVF containing the points vec(d) and vec(c)? vec(r)(t) = c + t (d-c) (could have chosen d as well)
+End_Concepts
+
+Notes
+VVF Example 1: vec(r)(t) = <cos(t),sin(t),0> on 0 <= t <= 2pi is a circle in the XY
+VVF Example 2: vec(r)(t) = <cos(t),sin(t),sin(t)> on 0 <= t <= pi. All points on this shape are on the exterior of an imaginary cylinder that has base of a circle with r=1 in XY. It is also on the cylinder with radius 1 on the XZ plane. Thus, this is the intersection of those two cylinders. (points can be plugged in)
+VVF Example 3: vec(r)(t)= <cos(t), sin(t), t>. This is a spiral on the cylinder with rad=1 in the XY and t is always increasing so it goes up and up around the cylinder in the Z direction.
+Derivative of VVF Example 3: derivative of vec(r)(t)=<cos(t), sin(t), t> is <-sin(t), cos(t), 1> = vec(r)'(t).
+
+End_Notes
+
+Files
+parallelopipet.png
+End_Files
