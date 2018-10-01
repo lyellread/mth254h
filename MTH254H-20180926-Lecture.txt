@@ -3,12 +3,15 @@
 Chapter: 11.3
 
 Definitions
-Dot Product: the Dot Product of two vectors u and v is "u dot v" is |u||v|cosTHETA (where theta is between them). If u=<u1,u2>,v=<v1,v2> then u dot v is u1v1+u2v2 (+u3ve in "R"^3)
+Dot Product: the Dot Product of two vectors u and v is "u dot v" is |u||v|cosTHETA (where theta is between them). If u=<u1,u2>,v=<v1,v2> then u dot v is u1v1+u2v2 (+u3v3 in "R"^3)
 
 End_Defenitions
 
 Concepts
 Dot Product of i,j: i dot j = 0. i=<1,0> j=<0,1> 1*0+0*1 = 0
+Finding angle: |U||V|cosTHETA = U dot V; Therefore cosTHETA = (U dot V)/(|U||V|)
+Scalar Component in the dir of V:  scal_v_u ("scalar of u in the direction of v") = |u| cos THETA = u dot v / |v|. This is the length of the shadow. If it is the other side, add a negative.
+Projection of U on V: Nominclature: proj_V_U. Equation: |U|cosTHETA*(V/|V|) = scal_V_U*(V/|V|) = V*((U dot V)/(V dot V))
 End_Concepts
 
 Notes
@@ -16,5 +19,5 @@ https://github.com/dunklastarn/OSU-MTH254H-DOCS/blob/master/vectors-11.1-11.4-su
 End_Notes
 
 Files
-
+11.3-Homework.pdf
 End_Files
