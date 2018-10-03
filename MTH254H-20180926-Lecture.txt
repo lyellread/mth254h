@@ -12,6 +12,7 @@ Dot Product of i,j: i dot j = 0. i=<1,0> j=<0,1> 1*0+0*1 = 0
 Finding angle: |U||V|cosTHETA = U dot V; Therefore cosTHETA = (U dot V)/(|U||V|)
 Scalar Component in the dir of V:  scal_v_u ("scalar of u in the direction of v") = |u| cos THETA = u dot v / |v|. This is the length of the shadow. If it is the other side, add a negative.
 Projection of U on V: Nominclature: proj_V_U. Equation: |U|cosTHETA*(V/|V|) = scal_V_U*(V/|V|) = V*((U dot V)/(V dot V))
+Perp and Parallel Components: Parallel: vec(v)sinTHETA; Perpendicular: vec(v)cosTHETA.
 End_Concepts
 
 Notes
