@@ -1,0 +1,21 @@
+# MTH245H - LECTURE 6 - 10/03/2018 #
+
+Chapter: 11.7
+
+Definitions
+Position: vec(r)(t) = <x(t), y(t), z(t)>
+Velocity: vec(v)(t) = 
+End_Defenitions
+
+Concepts
+Functions On Sphere Centered at O: |r(t)| = c and r(t) dot r(t) = c^2 and 2r(t) sot r'(t) = 0 (because r(t) _|_ r'(t). Explanation: r(t) is the position vector (O --> point) that defines the point on the curve at t. The derivative (r'(t)) is _|_ to that curve as it is tangent to the curve, thus _|_ to the position vector that defines the point.
+
+End_Concepts
+
+Notes
+Example Derivation in "R"^2: vec(r)(t) = d<cos(t),sin(t)> --> vec(v)(t) = vec(r)'(t) = d<-sin(t), cos(t)> --> vec(a)(t) = vec(v)'(t) = vec(r)"(t) = -d<cos(t),sin(t)>
+End_Notes
+
+Files
+
+End_Files
