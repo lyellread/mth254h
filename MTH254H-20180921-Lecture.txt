@@ -17,8 +17,7 @@ Vector Notation: <v1,v2>=vec(v). This means that if the start of the representat
 Multiplication of Vectors: <v1,v2>=vec(v) can be modified in the following way: n*vec(c) = <n*v1,n*v2>
 Vector Addition (Graphical): vec(v) + vec(w): Start vec(v) at the origin, and place the non-arrow end of vec(w) at the arrow end of vec(v) and then the line from Origin (O) to the arrow end of vec(w) is the resultant
 Vector Subtraction: If the vector in question has a negative in front [in: vec(v)-vec(w), vec(w) is negative) then flip its direction 180 (AKA -1*vec(X)) and then perform Vector Addition (Graphical|Mathmatical).
-Vector Addition (Mathmatical): <v1,v2>=vec(v), <w1,w2>=vec(w): vec(v) + vec(w) = <v1+w1, v2+w2>
-Magnitudes and Multiplication: 
+Vector Addition (Mathmatical): <v1,v2>=vec(v), <w1,w2>=vec(w): vec(v) + vec(w) = <v1+w1, v2+w2> 
 End_Concepts
 
 Notes
