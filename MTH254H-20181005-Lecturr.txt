@@ -1,0 +1,20 @@
+# MTH245H - LECTURE 7 - 10/05/2018 #
+
+Chapter: 11.8
+
+Definitions
+
+End_Defenitions
+
+Concepts
+Arc Length Function: for r(t) where a<=t<=b, Arc Length at t = S(t) = INT from a to t of |r'(k) dk
+Length Along a Curve: INT from a to b of SQRT(x'(t)^2 + y'(t)^2+z'(t)^2) where a and b are endpoints.
+End_Concepts
+
+Notes
+
+End_Notes
+
+Files
+
+End_Files
