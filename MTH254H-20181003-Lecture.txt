@@ -17,5 +17,5 @@ Example Derivation in "R"^2: vec(r)(t) = d<cos(t),sin(t)> --> vec(v)(t) = vec(r)
 End_Notes
 
 Files
-
+11.7-Homework.pdf
 End_Files
