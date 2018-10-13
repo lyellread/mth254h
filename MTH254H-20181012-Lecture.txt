@@ -1,0 +1,22 @@
+# MTH245H - LECTURE 8 - 10/12/2018 #
+
+Chapter: 12.1
+
+Definitions
+Normal Vector = A vector perpendicular to something (typically a plane)
+Intersection of two VVF: Lines: r1(t) = x0 + d1t; r2(j) = x1 + d2j; find t,j where x0+d1t = x1+d2j when solved will yield x0 or the point of intersection
+End_Defenitions
+
+Concepts
+What defines a plane: [1] Three Points [2] 2 lines [3] a normal vector and a point
+Is a point in a plane: Plane defined by point x0 = (x0, y0, z0) and normal <a,b,c>. Point x = (x,y,z) is on the plane if (x-x0) DOT n = 0
+Defining a plane with two lines: r1(t) = x0 + d1t; r2(t) = x1 + d2t. Point is the intersection of the lines (see definition), normal is the cross product of the dimensions.
+End_Concepts
+
+Notes
+
+End_Notes
+
+Files
+
+End_Files
