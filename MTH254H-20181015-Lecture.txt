@@ -1,0 +1,20 @@
+# MTH245H - LECTURE 9 - 10/15/2018 #
+
+Chapter: 12.2
+
+Definitions
+Domain: The domain D of a function F is all the points on F where the point is defined and makes sense
+Graph of F: F={(x1, y): x IN Domain}
+End_Defenitions
+
+Concepts
+
+End_Concepts
+
+Notes
+
+End_Notes
+
+Files
+
+End_Files
