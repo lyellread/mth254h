@@ -3,12 +3,13 @@
 Chapter: 12.2
 
 Definitions
-Domain: The domain D of a function F is all the points on F where the point is defined and makes sense
-Graph of F: F={(x1, y): x IN Domain}
+Domain of a 3D function: The values of X and Y that will make the function output valid output.
+Range of a 3D function: The values (z) that a function outputs across its domain.
 End_Defenitions
 
 Concepts
-
+Graphing a 3D function: Look at the images of the graph on the planes XZ and YZ - then assemble some graph that includes both.
+Solving for Level Curves: Substitute an arbitrary for z, and solve for y and then graph it. Then repeat for another value of z.
 End_Concepts
 
 Notes
@@ -16,5 +17,5 @@ Notes
 End_Notes
 
 Files
-
+12.2-Homework.pdf
 End_Files
