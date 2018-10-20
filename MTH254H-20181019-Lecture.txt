@@ -1,0 +1,21 @@
+# MTH245H - LECTURE 10 - 10/19/2018 #
+
+Chapter: 12.4
+
+Definitions
+
+End_Defenitions
+
+Concepts
+Partial Derivative: If doing the partial derivative for x (usually denoted by f_x_, then treat y as a constant, and derive. 
+Second Partial Derivatives: There are four of these for a two variable function. Fof f(x,y), find f_x_ and f_y_ and then use those to derive again to find f_xx_, f_xy_, f_yx_, f_yy_.
+Using Limit Derivative Defenition to Calculate Partial Derivatives: jesus thats quite the title ;). The limit defenitions are: f_x_ = (lim h-->0) [f(x+h, y)-f(x,y)]/h,  f_y_ = (lim h-->0) [f(x, y+h)-f(x,y)]/h
+End_Concepts
+
+Notes
+
+End_Notes
+
+Files
+12.4-Homework.pdf
+End_Files
